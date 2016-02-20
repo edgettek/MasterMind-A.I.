@@ -1,0 +1,88 @@
+OUTPUT
+
+Contact Information:
+
+Name: Kyle Edgette
+Partners: Ricky Su
+Class: CSC 172 SPRING 2015
+Lab Session: Monday/Wednesday 2pm
+TA Name: TJ Stein
+Assignment Number: Project 01
+
+
+Sample Output:
+
+
+dhcp-10-5-26-213:src KEdgette1$ javac *.java
+dhcp-10-5-26-213:src KEdgette1$ java TestClass
+Hello! Welcome to MasterMind!
+What colors of tokens would you like to play with? (Please enter the colors as a list separated by commas and please only enter a total of 8 colors.)
+Red, Blue, Green, Yellow
+How many positions would you like to play with? (Please only enter an integer less than 8.)
+5
+
+My first guess is: 
+Red, Red, Red, Red, Red, 
+Now, please tell me how many tokens are the correct color and in the correct position, and how many are the correct color but in the wrong position. 
+(Please enter two integers separated by a comma.)
+1, 0
+
+My guess is:
+Red, Blue, Blue, Blue, Blue, 
+
+Now, please tell me how many tokens are the correct color and in the correct position, and how many are the correct color but in the wrong position. 
+(Please enter two integers separated by a comma.)
+1, 1
+
+My guess is:
+Green, Red, Blue, Green, Green, 
+
+Now, please tell me how many tokens are the correct color and in the correct position, and how many are the correct color but in the wrong position. 
+(Please enter two integers separated by a comma.)
+1, 2
+
+My guess is:
+Green, Blue, Red, Yellow, Yellow, 
+
+Now, please tell me how many tokens are the correct color and in the correct position, and how many are the correct color but in the wrong position. 
+(Please enter two integers separated by a comma.)
+1, 4
+
+My guess is:
+Green, Yellow, Yellow, Red, Blue, 
+
+Now, please tell me how many tokens are the correct color and in the correct position, and how many are the correct color but in the wrong position. 
+(Please enter two integers separated by a comma.)
+1, 4
+
+My guess is:
+Yellow, Red, Green, Yellow, Blue, 
+
+Now, please tell me how many tokens are the correct color and in the correct position, and how many are the correct color but in the wrong position. 
+(Please enter two integers separated by a comma.)
+1, 4
+
+My guess is:
+Yellow, Blue, Yellow, Green, Red, 
+
+Now, please tell me how many tokens are the correct color and in the correct position, and how many are the correct color but in the wrong position. 
+(Please enter two integers separated by a comma.)
+1, 4
+
+My guess is:
+Yellow, Green, Blue, Red, Yellow, 
+
+Now, please tell me how many tokens are the correct color and in the correct position, and how many are the correct color but in the wrong position. 
+(Please enter two integers separated by a comma.)
+5, 0
+
+
+*********************************************
+The computer guessed correctly!! Game over!
+*********************************************
+
+
+
+Let's play another game of MasterMind!
+What colors of tokens would you like to play with? (Please enter the colors as a list separated by commas and please only enter a total of ten colors.)
+
